@@ -1,4 +1,4 @@
-👋 Hey There! I'm Navaneetha Krishnan 
+#👋 Hey There! I'm Navaneetha Krishnan 
 A frontend developer passionate about building clean, responsive, and interactive user interfaces.
 # 💫 About Me:
 🔭  I’m currently working on a Project based on ML<br>👨‍💻 Engineering student @ KIT<br>🤝 I’m looking for help with mastering backend architecture and scaling.<br>🌱 I’m currently learning real-time UI/UX design improvements<br>📫 Reach me at pnavaneethakrishnan07@gmail.com<br>⚡ Fun fact: I write code that even future me won’t understand.
