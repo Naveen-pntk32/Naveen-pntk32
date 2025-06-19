@@ -25,4 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Naveen-pntk32&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveen-pntk32&bg_color=0b81ef&color=85ffe7&line=19f076&point=ff4d00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
