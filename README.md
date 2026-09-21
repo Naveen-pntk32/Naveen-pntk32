@@ -58,7 +58,7 @@ A 4-page, fully responsive React site inspired by Bugatti's design language.
 ![Backend](https://skillicons.dev/icons?i=flask,tensorflow)
 
 **Tools**  
-![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,vercel)
 
 **Core CS:** Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · DBMS
 
