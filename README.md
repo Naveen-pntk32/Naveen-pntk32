@@ -1,32 +1,85 @@
-# 👋 Hey There! I'm Navaneetha Krishnan
-### *A fresher Software Developer who enjoys building full stack applications from scratch.*
-## 💫 About Me:
-🔭 I'm currently building ZenPulse, a full stack productivity web app with React, a Python REST API, and PostgreSQL<br>
-👨‍💻 Engineering student (B.E. Computer Science) @ KIT, Coimbatore<br>
-🤝 I'm looking to grow in backend architecture, API design, and writing clean, maintainable code<br>
-🌱 I'm currently strengthening my Data Structures & Algorithms and exploring REST API design patterns<br>
-📫 Reach me at pnavaneethakrishnan07@gmail.com<br>
-⚡ Fun fact: I'd rather debug a tricky bug at 2 AM than leave it for tomorrow
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/navien.krish/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-pntk/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/ElderberryAny9037/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pnavaneethakrishnan07@gmail.com)
-## 💻 Tech Stack:
+# Hi, I'm Navaneetha Krishnan 👋
 
-**Languages**
+**Full-Stack Software Developer** · React · Python · REST APIs
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+I'm a Computer Science graduate (B.E., KIT Coimbatore, 2026) who builds web applications end to end: database design, REST APIs, and responsive user interfaces. I care about clean, maintainable code and shipping things that actually work in production.
 
-**Frontend**
+📍 Coimbatore, Tamil Nadu, India  
+🟢 **Open to full-time opportunities** on a collaborative engineering team
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-navien--krish.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://navien-krish.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navien-krish/)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:navienkrish.career26@gmail.com)
 
-**Backend & Databases**
+---
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-%23025E8C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+## 🚀 Featured Projects
 
-**ML (project specific)**
+### 🛡️ Signature Fraud Detection System
+Deep-learning system that verifies handwritten signatures using a Siamese Neural Network.
+- **90%+ classification accuracy** on real-world datasets
+- Flask + TensorFlow backend with a 2-stage image preprocessing pipeline (NumPy, Pillow)
+- Real-time React frontend for live signature validation
+- Production deployment with Gunicorn (4 workers) and Flask-CORS
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+`Python` `Flask` `TensorFlow` `React`  
+[Source Code](https://github.com/Naveen-pntk32/REPO-NAME) · [Live Demo](https://YOUR-LIVE-LINK)
 
-**Tools & Platforms**
+### ✅ ZenPulse: Productivity & Task Management App
+A TickTick-inspired SaaS-style app with a full React frontend and Python REST API.
+- **10+ features**: dashboard, tasks, projects, categories, search, filters, priorities, due dates, recurring tasks, dark/light mode
+- **8+ CRUD endpoints** with request validation and structured error handling
+- **JWT authentication** with a 4-table relational schema (Users, Projects, Tasks, Subtasks)
+- Analytics with Pomodoro focus sessions and daily/weekly completion stats
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+`React` `JavaScript` `Python` `REST APIs`  
+[Source Code](https://github.com/Naveen-pntk32/REPO-NAME) · [Live Demo](https://YOUR-LIVE-LINK)
+
+### 🏎️ Luxury Automotive Showcase
+A 4-page, fully responsive React site inspired by Bugatti's design language.
+- Car search and filtering, multi-image galleries, API-driven listings
+- **10+ reusable components** with loading and error states, tested across 3 breakpoints
+- React Router navigation and a contact/enquiry form for a real-world business flow
+
+`React` `Tailwind CSS` `React Router`  
+[Source Code](https://github.com/Naveen-pntk32/REPO-NAME) · [Live Demo](https://YOUR-LIVE-LINK)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://skillicons.dev/icons?i=python,js,mysql)
+
+**Frontend**  
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)
+
+**Backend & ML**  
+![Backend](https://skillicons.dev/icons?i=flask,tensorflow)
+
+**Tools**  
+![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode)
+
+**Core CS:** Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · DBMS
+
+---
+
+## 🌱 Currently
+
+- Sharpening Data Structures & Algorithms
+- Exploring REST API design patterns and backend architecture
+- Building and improving **ZenPulse**
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.E. Computer Science and Engineering**, KIT Coimbatore (2022–2026), GPA 8.1/10
+- **NPTEL: Database Management Systems** (2025)
+- **Data Science Workshop**, Ether InfoTech (2024)
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for a Software Developer role. If you're hiring or want to collaborate, reach out at [navienkrish.career26@gmail.com](mailto:navienkrish.career26@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/navien-krish/).
